@@ -19,6 +19,7 @@ The CORD-19 dataset from Kaggle: https://www.kaggle.com/allen-institute-for-ai/C
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone your-repo-url>](https://github.com/JSIMBA11/Python-Week-8-Assignment.git
 
 Assignment
+
