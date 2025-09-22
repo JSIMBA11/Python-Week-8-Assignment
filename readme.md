@@ -13,11 +13,12 @@ This project provides a comprehensive analysis of the CORD-19 dataset containing
 ## Dataset
 The CORD-19 dataset from Kaggle: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
-**Note**: Only the `metadata.csv` file is required for this analysis.
+**Note**: Only the `metadata.csv` file is required for this analysis. Download here https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
 ## Installation
 
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd Frameworks_Assignment
+
+Assignment
